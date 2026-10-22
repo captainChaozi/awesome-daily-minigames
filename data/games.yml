@@ -1290,6 +1290,12 @@
   platform: web
   description: Guess the entries in a real top-five list, ranked in the right order.
 
+- name: Floored
+  url: https://playfloored.com/
+  category: trivia
+  platform: web
+  description: Five ranked lists a day, each with a target rank; guess any item to see its rank and work higher or lower until you land on it.
+
 - name: FoodGuessr
   url: https://www.foodguessr.com/
   category: trivia
