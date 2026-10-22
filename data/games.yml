@@ -1657,6 +1657,12 @@
   description: A dozen well-crafted dailies with genuinely good design; several are free, the rest are subscriber-only.
   tags: [paywalled]
 
+- name: BrainiLab Daily
+  url: https://brainilabgames.com/daily-quiz/
+  category: hubs
+  platform: web
+  description: One shared main game a day that rotates between a mixed-knowledge quiz, a word game and a number puzzle, plus an optional extra.
+
 - name: Britannica Games
   url: https://www.britannica.com/games
   category: hubs
